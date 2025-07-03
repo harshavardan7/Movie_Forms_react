@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie_Forms_react/static/css/main.189d962c.css",
+    "main.js": "/Movie_Forms_react/static/js/main.1eac5b26.js",
+    "static/js/453.a99a62ad.chunk.js": "/Movie_Forms_react/static/js/453.a99a62ad.chunk.js",
+    "index.html": "/Movie_Forms_react/index.html",
+    "main.189d962c.css.map": "/Movie_Forms_react/static/css/main.189d962c.css.map",
+    "main.1eac5b26.js.map": "/Movie_Forms_react/static/js/main.1eac5b26.js.map",
+    "453.a99a62ad.chunk.js.map": "/Movie_Forms_react/static/js/453.a99a62ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189d962c.css",
+    "static/js/main.1eac5b26.js"
+  ]
+}
